@@ -28,4 +28,6 @@ Each player should do on its own turn:
 - *(2B)* Buy a goal
 - *(3)* Play the dice and generates resource cards for itself, matching dice color
 
+# Scoring
 
+- Sum the points from goal cards, player with large amount of points wins
