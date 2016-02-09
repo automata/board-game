@@ -1,4 +1,8 @@
-# Board Game
+# WIP: Board Game
+
+![2016-02-08](https://cloud.githubusercontent.com/assets/49062/12925773/1d0138e2-cf47-11e5-95a4-02692904457d.jpg)
+
+Combines elements from Catan, Carcassonne and Ticket to Ride, the known board game triad.
 
 # Material
 
