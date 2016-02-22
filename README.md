@@ -2,11 +2,14 @@
 
 Combines elements from Catan, Carcassonne and Ticket to Ride, the well known board game triad.
 
+# Changelog
+
 ## Version 0.1.0
 ![2016-02-08](https://cloud.githubusercontent.com/assets/49062/12925773/1d0138e2-cf47-11e5-95a4-02692904457d.jpg)
 
 ## Version 0.2.0: pirates and buccaneers
 
+## Version 0.3.0: Start designing tiles with Pirates theme. Built ships out of paper.
 
 # Material
 
